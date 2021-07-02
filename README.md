@@ -1,4 +1,4 @@
-# Plato_VI-# 
+# Plato_VI
 
 A new Flutter application.
 
